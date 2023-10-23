@@ -24,7 +24,6 @@ int main()
         label: cout<<"Average= "<<avg;
         cout<<"\nStop: 1  Continue: 0 : ";
         cin>>check;
-        // if(check==0)
-            i++;
+        i++;
     }while(check==0);
 }
